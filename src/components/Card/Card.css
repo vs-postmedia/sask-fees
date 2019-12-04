@@ -1,0 +1,60 @@
+.card {
+	border: 1px solid #D1D2D4;
+	border-radius: 5px;
+	margin: 0 auto 2rem auto;
+	padding: 5px;
+	width: 95%;
+}
+.card p {
+	margin: 0; 
+}
+.card header {
+	align-items: center;
+	/*display: flex;*/
+}
+.card .data-section {
+	display: flex;
+	justify-content: center;
+	margin-top: 8px;
+}
+.card .data-section > div {
+	margin: 10px auto 5px auto;
+	text-align: center;
+}
+.card .data-section > div > p {
+	color: var(--orange01);
+	font-size: 1.5rem;
+	margin: 7px 0;
+}
+.card .cost-details {
+	display: flex;
+	justify-content: left;
+}
+.card .cost-details > p {
+	color: var(--grey01);
+	font-size: 0.9rem;
+	margin-left: 1.5rem;
+}
+
+.card .url {
+	color: var(--grey02);
+	border-radius: 5px;
+	/*margin: 0 0 1px 15px;*/
+	padding: 2px 0px;
+}
+.card h4 {
+	margin-block-start: 0.3rem;
+	margin-bottom: 0;
+}
+
+.card .info {
+	font-size: 0.85rem;
+	margin-block-start: 4px;
+}
+
+@media screen and (min-width: 600px) {
+	.card-list .card {
+		margin: 0 auto 1rem auto;
+		width: 45%;
+	}
+}
