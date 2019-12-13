@@ -28,6 +28,7 @@
 }
 .card .data-section > div {
 	margin: 10px auto 5px auto;
+	max-width: 50%;
 	text-align: center;
 }
 .card .data-section > div > p {
