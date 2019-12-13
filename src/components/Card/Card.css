@@ -39,10 +39,9 @@
 	display: flex;
 	justify-content: left;
 }
-.card .cost-details > p {
+.card .data-section > div > p.fee-details{
 	color: var(--grey01);
 	font-size: 0.9rem;
-	margin-left: 1.5rem;
 }
 
 .card .url {
