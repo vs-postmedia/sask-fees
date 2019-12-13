@@ -8,7 +8,7 @@
 	text-align: center;
 }
 #input input{
-	border: 3px solid #F58745;
+	border: 3px solid var(--greensask);
 	border-radius: 5px;
 }
 

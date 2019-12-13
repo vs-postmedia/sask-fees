@@ -12,6 +12,15 @@
 	align-items: center;
 	/*display: flex;*/
 }
+.card .muni-type {
+	background-color: var(--grey03);
+	border-radius: 4px;
+	color: #FFF;
+	float: right;
+	font-size: 0.85rem;
+	padding: 2px 3px;
+	text-transform: uppercase;
+}
 .card .data-section {
 	display: flex;
 	justify-content: center;
@@ -22,7 +31,7 @@
 	text-align: center;
 }
 .card .data-section > div > p {
-	color: var(--orange01);
+	color: var(--greensask);
 	font-size: 1.5rem;
 	margin: 7px 0;
 }
@@ -39,8 +48,11 @@
 .card .url {
 	color: var(--grey02);
 	border-radius: 5px;
-	/*margin: 0 0 1px 15px;*/
 	padding: 2px 0px;
+}
+.card .url.no-url {
+	pointer-events: none;
+	text-decoration: none;
 }
 .card h4 {
 	margin-block-start: 0.3rem;

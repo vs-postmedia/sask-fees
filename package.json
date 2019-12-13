@@ -4,7 +4,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "moment-timezone": "^0.5.27",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "tabletop": "^1.6.2"

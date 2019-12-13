@@ -1,5 +1,4 @@
 import React, { Component, Fragment } from 'react';
-import * as Moment from 'moment-timezone';
 import Tabletop from 'tabletop';
 import Input from '../Input/Input';
 import CardList from '../CardList/CardList';
@@ -8,7 +7,8 @@ import './Layout.css';
 export class Layout extends Component {
 	state = {
 		data: [],
-		filteredData: []
+		filteredData: [],
+		defaultMessage: 'Loading data...'
 	};
 
 	componentDidMount() {
@@ -25,7 +25,7 @@ export class Layout extends Component {
 	}
 
 	handleInputChange(event) {
-		const selectedData = event.target.value === '' ? this.state.data : this.state.data.filter(d => d.city.toLowerCase().includes(event.target.value.toLowerCase()));
+		const selectedData = event.target.value === '' ? this.state.data : this.state.data.filter(d => d.muni.toLowerCase().includes(event.target.value.toLowerCase()));
 
 		this.setState({
 			filteredData: selectedData
@@ -37,7 +37,7 @@ export class Layout extends Component {
 		if (this.state.filteredData.length > 0) {
 			results = <CardList data={this.state.filteredData}></CardList>;
 		} else {
-			results = <p className="no-data">No cancellations</p>;
+			results = <p className="no-data">{this.state.defaultMessage}</p>;
 		}
 		return (
 			<Fragment>
@@ -50,7 +50,3 @@ export class Layout extends Component {
 }
 
 export default Layout;
-/*
-<SummaryBox data={this.state.data}></SummaryBox>
-{results}
-*/
