@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 
 export class Input extends Component {
-	state = {value: 'Look up a city...'};
+	state = {value: 'Look up a municipality...'};
 
 	render() {
 		return (

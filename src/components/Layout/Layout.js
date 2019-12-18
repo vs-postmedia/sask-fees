@@ -19,6 +19,7 @@ export class Layout extends Component {
 			}).then(function(data, tabletop) { 
 				that.setState({
 					data: data,
+					defaultMessage: 'No results',
 					filteredData: data
 				});
 			});
