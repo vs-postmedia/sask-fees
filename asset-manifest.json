@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sask-fees/static/css/main.c098f31e.chunk.css",
+    "main.js": "/sask-fees/static/js/main.2ccc4db1.chunk.js",
+    "main.js.map": "/sask-fees/static/js/main.2ccc4db1.chunk.js.map",
+    "runtime-main.js": "/sask-fees/static/js/runtime-main.9106a219.js",
+    "runtime-main.js.map": "/sask-fees/static/js/runtime-main.9106a219.js.map",
+    "static/js/2.9b573f2d.chunk.js": "/sask-fees/static/js/2.9b573f2d.chunk.js",
+    "static/js/2.9b573f2d.chunk.js.map": "/sask-fees/static/js/2.9b573f2d.chunk.js.map",
+    "index.html": "/sask-fees/index.html",
+    "precache-manifest.06cbd429e1c50fbb058b3cd1583a84e7.js": "/sask-fees/precache-manifest.06cbd429e1c50fbb058b3cd1583a84e7.js",
+    "service-worker.js": "/sask-fees/service-worker.js",
+    "static/css/main.c098f31e.chunk.css.map": "/sask-fees/static/css/main.c098f31e.chunk.css.map",
+    "static/js/2.9b573f2d.chunk.js.LICENSE": "/sask-fees/static/js/2.9b573f2d.chunk.js.LICENSE",
+    "static/media/BentonSansCond-Bold.otf": "/sask-fees/static/media/BentonSansCond-Bold.6f6753fd.otf",
+    "static/media/BentonSansCond-BoldItalic.otf": "/sask-fees/static/media/BentonSansCond-BoldItalic.a6640d89.otf",
+    "static/media/BentonSansCond-RegItalic.otf": "/sask-fees/static/media/BentonSansCond-RegItalic.69a4217c.otf",
+    "static/media/BentonSansCond-Regular.otf": "/sask-fees/static/media/BentonSansCond-Regular.43cd4ac7.otf",
+    "static/media/Shift-Bold.otf": "/sask-fees/static/media/Shift-Bold.cdd38a86.otf",
+    "static/media/index.css": "/sask-fees/static/media/Shift-BoldItalic.5c3edbfd.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9106a219.js",
+    "static/js/2.9b573f2d.chunk.js",
+    "static/css/main.c098f31e.chunk.css",
+    "static/js/main.2ccc4db1.chunk.js"
+  ]
+}
