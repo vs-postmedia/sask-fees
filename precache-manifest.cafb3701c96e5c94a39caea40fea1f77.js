@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "613bd1fb8d605ad27685c04ae2450fb8",
+    "revision": "19afb5a174041c9e759fea29cded12bd",
     "url": "/sask-fees/index.html"
   },
   {
-    "revision": "f76bbf8e1485ba7d64f7",
+    "revision": "050d8cf80818b0a2fffb",
     "url": "/sask-fees/static/css/main.c098f31e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sask-fees/static/js/2.9b573f2d.chunk.js.LICENSE"
   },
   {
-    "revision": "f76bbf8e1485ba7d64f7",
-    "url": "/sask-fees/static/js/main.2ccc4db1.chunk.js"
+    "revision": "050d8cf80818b0a2fffb",
+    "url": "/sask-fees/static/js/main.8324c18f.chunk.js"
   },
   {
     "revision": "4265176ffced7dfb7a5a",

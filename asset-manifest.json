@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sask-fees/static/css/main.c098f31e.chunk.css",
-    "main.js": "/sask-fees/static/js/main.2ccc4db1.chunk.js",
-    "main.js.map": "/sask-fees/static/js/main.2ccc4db1.chunk.js.map",
+    "main.js": "/sask-fees/static/js/main.8324c18f.chunk.js",
+    "main.js.map": "/sask-fees/static/js/main.8324c18f.chunk.js.map",
     "runtime-main.js": "/sask-fees/static/js/runtime-main.9106a219.js",
     "runtime-main.js.map": "/sask-fees/static/js/runtime-main.9106a219.js.map",
     "static/js/2.9b573f2d.chunk.js": "/sask-fees/static/js/2.9b573f2d.chunk.js",
     "static/js/2.9b573f2d.chunk.js.map": "/sask-fees/static/js/2.9b573f2d.chunk.js.map",
     "index.html": "/sask-fees/index.html",
-    "precache-manifest.06cbd429e1c50fbb058b3cd1583a84e7.js": "/sask-fees/precache-manifest.06cbd429e1c50fbb058b3cd1583a84e7.js",
+    "precache-manifest.cafb3701c96e5c94a39caea40fea1f77.js": "/sask-fees/precache-manifest.cafb3701c96e5c94a39caea40fea1f77.js",
     "service-worker.js": "/sask-fees/service-worker.js",
     "static/css/main.c098f31e.chunk.css.map": "/sask-fees/static/css/main.c098f31e.chunk.css.map",
     "static/js/2.9b573f2d.chunk.js.LICENSE": "/sask-fees/static/js/2.9b573f2d.chunk.js.LICENSE",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.9106a219.js",
     "static/js/2.9b573f2d.chunk.js",
     "static/css/main.c098f31e.chunk.css",
-    "static/js/main.2ccc4db1.chunk.js"
+    "static/js/main.8324c18f.chunk.js"
   ]
 }

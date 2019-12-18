@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sask-fees/precache-manifest.06cbd429e1c50fbb058b3cd1583a84e7.js"
+  "/sask-fees/precache-manifest.cafb3701c96e5c94a39caea40fea1f77.js"
 );
 
 self.addEventListener('message', (event) => {
